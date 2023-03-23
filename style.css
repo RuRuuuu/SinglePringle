@@ -54,9 +54,9 @@ input{
 .enter{
     font-size: large;
     padding: 4px;
-    border-radius: 4px;
+    border-radius: 8px;
     width:6vw;
-    background-color:#331;
+    background-color:rgb(150, 150, 40, 0.3);
     color:white;
     border-color: black;
     cursor: pointer;
